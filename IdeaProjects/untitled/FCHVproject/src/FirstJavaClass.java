@@ -23,6 +23,17 @@ public class FirstJavaClass extends JFrame{
           // Get Container contentPane. This is the main Pane
           Container contentPain = frame.getContentPane();
 
+          // Create LayoutManager
+          FlowLayout flowLayout = new FlowLayout(FlowLayout.LEADING);
+
+          // Set Gaps
+          flowLayout.setHgap(50);
+          flowLayout.setVgap(50);
+
+          // Set LayoutManager
+          //contentPain.setLayout(new FlowLayout());
+          contentPain.setLayout(flowLayout);
+
           // Add Buttons to contentPain
           contentPain.add(exitButton);
           contentPain.add(helpButton);
@@ -32,7 +43,8 @@ public class FirstJavaClass extends JFrame{
 
           // Set the default bounds
           //frame.setBounds(20,20,150,150);
-          frame.setLocation(50,50);
+          //frame.setLocation(50,50);
+          frame.setBounds(50, 50, 400, 400);
 
           //Set acceptable size for JFrame and Buttons
           frame.pack();
@@ -40,6 +52,10 @@ public class FirstJavaClass extends JFrame{
           // Display the frame
           frame.setVisible(true);
 
+          // Get components on Container - contentPain
+          Component[] components = contentPain.getComponents();
+          // Print out count of componentson contentPain
+          System.out.println("The contentPain consists of: " + components.length + " components");
 
       }
 
