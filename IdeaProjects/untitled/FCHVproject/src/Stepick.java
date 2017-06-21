@@ -3,6 +3,17 @@
  */
 public class Stepick {
 
+
+    public static class HelloThread extends Thread {
+
+        public void run() {
+            System.out.println("Hello from a another thread!");
+        }
+
+    }
+    public static HelloThread helloThread = new HelloThread();
+
+
     public static int[] mergeArrays(int [] a1, int [] a2) {
 
         //System.out.println("-> " + "Размер первого массива: " + a1.length);
@@ -55,7 +66,11 @@ public class Stepick {
     }
 
     public static void main(String[] args) {
-
+        Thread mainThread = Thread.currentThread();
+        System.out.println("Имя основного потока: " + mainThread.getName());
+        System.out.println("До того как создали новый поток");
+        helloThread.run();
+        System.out.println("После того как создали новый поток");
         System.out.println("Первый тест");
         int [] a1 = {1, 2, 3, 4, 5};
         int [] a2 = {4, 5, 6, 7};
