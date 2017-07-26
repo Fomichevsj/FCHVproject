@@ -1,16 +1,13 @@
 package com.FomichevLTD.Stepick;
 
-import org.junit.AfterClass;
-import org.junit.BeforeClass;
-import org.junit.Test;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.remote.RemoteWebDriver;
-import org.openqa.selenium.support.FindBy;
-
+import org.testng.annotations.*;
 import java.net.URL;
+
 
 /**
  * Created by safomichev on 30.06.2017.
@@ -20,33 +17,51 @@ public class AppTestJunit5 {
 
     private static CustomLogger logger;
     private static WebDriver driver;
-    @FindBy(xpath = ".//input[@value=\"Мне повезёт\"]")
-    private WebElement luckky;
+    private SearchPage searchPage;
+    private CalculPage calculPage;
 
 
     @Test
+    public void init() {
+        logger.debug("init pages etc");
+        searchPage = new SearchPage();
+
+    }
+
+    @Test(dependsOnMethods = "init")
     public void firstTestMethod() {
-        // Navigate to a web page
-        driver.navigate().to("https://www.google.ru");
+
+
+        driver.navigate().to("https://www.yandex.ru");
+
+
+
+        searchPage.init(driver);
+
+        searchPage.search("Калькулятор");
+
+
+
+        calculPage = new CalculPage(driver);
+        calculPage.calcButtons.eightButton.click();
+        calculPage.calcButtons.sevenButton.click();
+        calculPage.calcButtons.plus.click();
+
+        calculPage = new CalculPage(driver);
+        calculPage.calcButtons.eightButton.click();
+        calculPage.calcButtons.sevenButton.click();
+
+
+
+        calculPage.calcButtons.equall.click();
+
+
         try{
-            Thread.sleep(5000);
+            Thread.sleep(15000);
         }
         catch (Exception e) {
-            logger.debug("Словиили обишку");
+            logger.debug("Словиили обишку в ожидании. В процессе.");
         }
-        luckky.click();
-        //driver.findElement(By.xpath(".//input[@value=\"Мне повезёт!\"])"));
-        try{
-            Thread.sleep(5000);
-        }
-        catch (Exception e) {
-            logger.debug("Словиили обишку");
-        }
-
-
-
-
-
 
 }
 
@@ -55,6 +70,9 @@ public class AppTestJunit5 {
         logger = new CustomLogger();
         logger.debug("Test ClassLogger Created");
         driver = new FirefoxDriver();
+        logger.debug("Create driver");
+
+
 
     }
 
