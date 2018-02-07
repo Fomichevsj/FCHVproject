@@ -1,12 +1,13 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="CheckinProject@NavBarToolbar" count="1" />
       <entry action="Console.Jdbc.ChooseSchema@unknown" count="1" />
       <entry action="Console.Jdbc.Execute@EditorToolbar" count="4" />
       <entry action="Coverage@NavBarToolbar" count="1" />
       <entry action="Debug@NavBarToolbar" count="1" />
-      <entry action="Run@NavBarToolbar" count="20" />
-      <entry action="Stop@NavBarToolbar" count="7" />
+      <entry action="Run@NavBarToolbar" count="52" />
+      <entry action="Stop@NavBarToolbar" count="10" />
       <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction@MainToolbar" count="1" />
     </counts>
   </component>

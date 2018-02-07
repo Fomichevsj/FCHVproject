@@ -19,5 +19,7 @@
     <property name="DBE.Default.Dialect" value="PostgreSQL" />
     <property name="TestNGSupport.hidePassedTests" value="false" />
     <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.612013" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.5889328" />
   </component>
 </application>

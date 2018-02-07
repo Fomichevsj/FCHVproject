@@ -11,11 +11,13 @@
     <location key="#Inspections.0.0.1366.768" x="315" y="48" />
     <location key="#SQL_Dialects.0.0.1366.768" x="70" y="63" />
     <location key="#Notifications.0.0.1366.768" x="432" y="94" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="242" y="0" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="104" />
     <size key="new project wizard.0.0.1366.768" width="825" height="728" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="132" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="132" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="132" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="132" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="259" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="259" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="259" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="259" />
     <size key="GridCell.Tab.2.left.0.0.1366.768" width="1366" height="5" />
     <size key="GridCell.Tab.2.center.0.0.1366.768" width="1366" height="5" />
     <size key="GridCell.Tab.2.right.0.0.1366.768" width="1366" height="5" />
@@ -24,5 +26,7 @@
     <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="5" />
     <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="5" />
     <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="5" />
+    <size key="Vcs.Push.Dialog.0.0.1366.768" width="799" height="520" />
+    <size key="javadoc.popup.0.0.1366.768" width="446" height="170" />
   </component>
 </application>
