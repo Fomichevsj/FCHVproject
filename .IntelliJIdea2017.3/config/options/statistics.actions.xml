@@ -4,10 +4,10 @@
       <entry action="$Delete" count="4" />
       <entry action="$Paste" count="4" />
       <entry action="$SelectAll" count="4" />
-      <entry action="$Undo" count="38" />
+      <entry action="$Undo" count="65" />
       <entry action="Add  testng  to classpath" count="1" />
       <entry action="Change dialect to..." count="1" />
-      <entry action="CheckinProject" count="2" />
+      <entry action="CheckinProject" count="3" />
       <entry action="CommentByBlockComment" count="1" />
       <entry action="Configure data source" count="1" />
       <entry action="Console.Jdbc.ChooseSchema" count="1" />
@@ -17,49 +17,50 @@
       <entry action="Coverage" count="1" />
       <entry action="Debug" count="1" />
       <entry action="Edit options of reporter inspection" count="1" />
-      <entry action="EditorBackSpace" count="715" />
-      <entry action="EditorChooseLookupItem" count="223" />
-      <entry action="EditorCompleteStatement" count="29" />
-      <entry action="EditorCopy" count="22" />
-      <entry action="EditorDown" count="176" />
+      <entry action="EditorBackSpace" count="837" />
+      <entry action="EditorChooseLookupItem" count="254" />
+      <entry action="EditorCompleteStatement" count="35" />
+      <entry action="EditorCopy" count="28" />
+      <entry action="EditorCut" count="1" />
+      <entry action="EditorDown" count="219" />
       <entry action="EditorDownWithSelection" count="1" />
-      <entry action="EditorEnter" count="185" />
-      <entry action="EditorEscape" count="9" />
-      <entry action="EditorLeft" count="185" />
-      <entry action="EditorLeftWithSelection" count="20" />
-      <entry action="EditorLineEnd" count="13" />
-      <entry action="EditorLineEndWithSelection" count="2" />
-      <entry action="EditorLineStart" count="9" />
-      <entry action="EditorLineStartWithSelection" count="10" />
+      <entry action="EditorEnter" count="210" />
+      <entry action="EditorEscape" count="10" />
+      <entry action="EditorLeft" count="194" />
+      <entry action="EditorLeftWithSelection" count="22" />
+      <entry action="EditorLineEnd" count="18" />
+      <entry action="EditorLineEndWithSelection" count="3" />
+      <entry action="EditorLineStart" count="11" />
+      <entry action="EditorLineStartWithSelection" count="13" />
       <entry action="EditorNextWord" count="8" />
       <entry action="EditorNextWordWithSelection" count="5" />
-      <entry action="EditorPaste" count="61" />
+      <entry action="EditorPaste" count="72" />
       <entry action="EditorPreviousWord" count="14" />
       <entry action="EditorPreviousWordWithSelection" count="26" />
-      <entry action="EditorRight" count="227" />
+      <entry action="EditorRight" count="249" />
       <entry action="EditorSplitLine" count="3" />
       <entry action="EditorStartNewLine" count="2" />
-      <entry action="EditorTab" count="8" />
-      <entry action="EditorUp" count="21" />
+      <entry action="EditorTab" count="10" />
+      <entry action="EditorUp" count="25" />
       <entry action="EditorUpWithSelection" count="3" />
       <entry action="GotoDeclaration" count="1" />
       <entry action="HideAllWindows" count="2" />
       <entry action="Import class" count="3" />
       <entry action="ImportProject" count="2" />
       <entry action="MoveStatementUp" count="2" />
-      <entry action="NewClass" count="6" />
+      <entry action="NewClass" count="8" />
       <entry action="NewDir" count="3" />
       <entry action="NewHtmlFile" count="1" />
       <entry action="NewProject" count="3" />
       <entry action="NextTemplateVariable" count="2" />
       <entry action="QuickJavaDoc" count="1" />
       <entry action="RenameElement" count="2" />
-      <entry action="Run" count="52" />
-      <entry action="RunClass" count="8" />
+      <entry action="Run" count="56" />
+      <entry action="RunClass" count="10" />
       <entry action="SaveAll" count="5" />
-      <entry action="ShowIntentionActions" count="19" />
+      <entry action="ShowIntentionActions" count="22" />
       <entry action="Stop" count="10" />
-      <entry action="Surround with try/catch" count="1" />
+      <entry action="Surround with try/catch" count="2" />
       <entry action="Switcher" count="21" />
     </counts>
   </component>

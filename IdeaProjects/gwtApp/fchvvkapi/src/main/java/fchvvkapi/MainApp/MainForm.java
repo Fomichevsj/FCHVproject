@@ -1,5 +1,7 @@
 package fchvvkapi.MainApp;
 
+import fchvvkapi.Helpers.TableFiller;
+
 import javax.swing.*;
 import javax.swing.border.Border;
 import javax.swing.table.DefaultTableModel;
@@ -21,14 +23,19 @@ public class MainForm extends JFrame {
      */
     private JPanel mainPanel;
     private String[] columnsNames = {"LastName", "FirstName", "MidleName"};
-    private String[][] values = {
-            {"Sergey", "Fomichev", "A"},
-            {"SGERSW", "HSOE", "VOSEfr"}
-    };
+    private String[][] values = new String[35][35];
     private JTable table = new JTable();
 
     public MainForm() {
         mainPanel = (JPanel) this.getContentPane();
+        int row = 0;
+        for(String s: TableFiller.getNames()) {
+            values[row][0] = s.substring(0, Math.min(s.length(), 10));
+            values[row][1] = "";
+            values[row][2] = "";
+            row++;
+        }
+
         table = new JTable(values, columnsNames);
         GridLayout layout = new GridLayout(2, 0);
         mainPanel.setLayout(layout);

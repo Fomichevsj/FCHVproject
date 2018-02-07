@@ -13,11 +13,12 @@
     <location key="#Notifications.0.0.1366.768" x="432" y="94" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="242" y="0" />
     <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="104" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="121" />
     <size key="new project wizard.0.0.1366.768" width="825" height="728" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="259" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="259" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="259" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="259" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="174" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="174" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="174" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="174" />
     <size key="GridCell.Tab.2.left.0.0.1366.768" width="1366" height="5" />
     <size key="GridCell.Tab.2.center.0.0.1366.768" width="1366" height="5" />
     <size key="GridCell.Tab.2.right.0.0.1366.768" width="1366" height="5" />
