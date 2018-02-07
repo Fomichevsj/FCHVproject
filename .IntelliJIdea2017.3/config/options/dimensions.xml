@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="121" />
+    <location key="new project wizard.0.0.1366.768" x="336" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="349" y="190" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="325" y="25" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="153" y="24" />
+    <location key="SettingsEditor.0.0.1366.768" x="161" y="22" />
+    <location key="#Inspections.0.0.1366.768" x="315" y="48" />
+    <location key="#SQL_Dialects.0.0.1366.768" x="70" y="63" />
+    <location key="#Notifications.0.0.1366.768" x="432" y="94" />
+    <size key="new project wizard.0.0.1366.768" width="825" height="728" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="132" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="132" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="132" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="132" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="5" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="5" />
+  </component>
+</application>

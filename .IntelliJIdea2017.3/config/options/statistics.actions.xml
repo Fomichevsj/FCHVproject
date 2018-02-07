@@ -1,0 +1,62 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="4" />
+      <entry action="$SelectAll" count="4" />
+      <entry action="$Undo" count="28" />
+      <entry action="Add  testng  to classpath" count="1" />
+      <entry action="Change dialect to..." count="1" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="CommentByBlockComment" count="1" />
+      <entry action="Configure data source" count="1" />
+      <entry action="Console.Jdbc.ChooseSchema" count="1" />
+      <entry action="Console.Jdbc.Execute" count="4" />
+      <entry action="CopyElement" count="2" />
+      <entry action="CopyUrl" count="1" />
+      <entry action="Coverage" count="1" />
+      <entry action="Debug" count="1" />
+      <entry action="Edit options of reporter inspection" count="1" />
+      <entry action="EditorBackSpace" count="499" />
+      <entry action="EditorChooseLookupItem" count="106" />
+      <entry action="EditorCompleteStatement" count="9" />
+      <entry action="EditorCopy" count="17" />
+      <entry action="EditorDown" count="131" />
+      <entry action="EditorDownWithSelection" count="1" />
+      <entry action="EditorEnter" count="132" />
+      <entry action="EditorEscape" count="3" />
+      <entry action="EditorLeft" count="159" />
+      <entry action="EditorLeftWithSelection" count="20" />
+      <entry action="EditorLineEnd" count="9" />
+      <entry action="EditorLineEndWithSelection" count="2" />
+      <entry action="EditorLineStart" count="2" />
+      <entry action="EditorLineStartWithSelection" count="5" />
+      <entry action="EditorNextWord" count="8" />
+      <entry action="EditorNextWordWithSelection" count="2" />
+      <entry action="EditorPaste" count="51" />
+      <entry action="EditorPreviousWord" count="10" />
+      <entry action="EditorPreviousWordWithSelection" count="25" />
+      <entry action="EditorRight" count="185" />
+      <entry action="EditorSplitLine" count="3" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="8" />
+      <entry action="EditorUp" count="17" />
+      <entry action="EditorUpWithSelection" count="3" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="Import class" count="3" />
+      <entry action="ImportProject" count="2" />
+      <entry action="MoveStatementUp" count="2" />
+      <entry action="NewClass" count="4" />
+      <entry action="NewDir" count="3" />
+      <entry action="NewHtmlFile" count="1" />
+      <entry action="NewProject" count="3" />
+      <entry action="Run" count="20" />
+      <entry action="RunClass" count="7" />
+      <entry action="SaveAll" count="5" />
+      <entry action="ShowIntentionActions" count="12" />
+      <entry action="Stop" count="7" />
+      <entry action="Surround with try/catch" count="1" />
+      <entry action="Switcher" count="21" />
+    </counts>
+  </component>
+</application>

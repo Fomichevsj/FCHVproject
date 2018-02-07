@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.173" value="12" />
+    <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1517997080522" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/gwtApp/gwt-stockwatcher&#10;C:/Program Files/gwt-2.8.2&#10;C:/Program Files/Java/jdk1.8.0_131" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.gist.reindex.count" value="22" />
+    <property name="lastTip" value="4" />
+    <property name="ts.lib.d.ts.version" value="2.6.1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/gwtApp/gwt-stockwatcher" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="DBE.Default.Dialect" value="PostgreSQL" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+  </component>
+</application>

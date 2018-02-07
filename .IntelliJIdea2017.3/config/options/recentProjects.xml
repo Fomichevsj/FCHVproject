@@ -1,0 +1,80 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/gwtApp/fchvvkapi" />
+        <option value="$USER_HOME$/IdeaProjects/gwtApp/gwt-stockwatcher" />
+        <option value="$USER_HOME$/IdeaProjects/hellogwt" />
+        <option value="$USER_HOME$/IdeaProjects/untitled" />
+        <option value="$USER_HOME$/IdeaProjects/com.gwtfchv" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/gwtApp/fchvvkapi" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/gwtApp/fchvvkapi" />
+    <option name="pid" value="4764" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/com.gwtfchv">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512123617690" />
+              <option name="buildTimestamp" value="1511788707905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/gwtApp/fchvvkapi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518003862979" />
+              <option name="buildTimestamp" value="1511788685748" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/gwtApp/gwt-stockwatcher">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516982750878" />
+              <option name="buildTimestamp" value="1511788692889" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hellogwt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516982755690" />
+              <option name="buildTimestamp" value="1511788692889" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512125003334" />
+              <option name="buildTimestamp" value="1511788707905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects/gwtApp" />
+  </component>
+</application>

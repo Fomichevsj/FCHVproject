@@ -1,0 +1,15 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Version Control].shown" count="4" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Run" count="16" />
+      <entry feature="execute.GWT.ConfigurationType.Run" count="6" />
+      <entry feature="execute.TestNG.Run" count="5" />
+      <entry feature="ide.settings.SQL Dialects" count="1" />
+      <entry feature="ideaapp.started" count="3" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>
